@@ -1,0 +1,163 @@
+{
+  "people": [
+    {
+      "name": "Karol",
+      "surname": "Cichoń",
+      "age": 26,
+      "email": "karol.cichon17@gmail.com",
+      "phone": {
+        "landline": 183376332,
+        "mobile": 504400336
+      },
+      "address": {
+        "streetandhomenumber": "Pasierbiec 132",
+        "postalcode": "34-601",
+        "city": "Limanowa"
+      },
+      "intrests": [
+        "programing",
+        "space",
+        "new technology",
+        "books"
+      ],
+      "family": {
+        "spouse": {
+          "name": "Justyna",
+          "surname": "Stańczyk"
+        },
+        "children": [
+          {
+            "name": "Jcob",
+            "surname": "Cichoń",
+            "age": 6,
+            "gender": "male",
+            "intrests": [
+              "football",
+              "taekwondo",
+              "books",
+              "programing"
+            ]
+          },
+          {
+            "name": "Alice",
+            "surname": "Cichoń",
+            "age": 4,
+            "gender": "female",
+            "intrests": [
+              "fashin",
+              "cosmetics",
+              "books",
+              "programing"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ania",
+      "surname": "Cichoń",
+      "age": 19,
+      "email": "ania@gmail.com",
+      "phone": {
+        "landline": 183376332,
+        "mobile": 512546258
+      },
+      "address": {
+        "streetandhomenumber": "Pasierbiec 132",
+        "postalcode": "34-601",
+        "city": "Limanowa"
+      },
+      "intrests": [
+        "programing",
+        "space",
+        "new technology",
+        "books"
+      ],
+      "family": {
+        "spouse": {
+          "name": "Marek",
+          "surname": "Kowalski"
+        },
+        "children": [
+          {
+            "name": "Jcob",
+            "surname": "Cichoń",
+            "age": 8,
+            "gender": "male",
+            "intrests": [
+              "football",
+              "taekwondo",
+              "books",
+              "programing"
+            ]
+          },
+          {
+            "name": "Alice",
+            "surname": "Cichoń",
+            "age": 6,
+            "gender": "female",
+            "intrests": [
+              "fashin",
+              "cosmetics",
+              "books",
+              "programing"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Katarzyna",
+      "surname": "Cichoń",
+      "age": 23,
+      "email": "kasia@gmail.com",
+      "phone": {
+        "landline": 183376332,
+        "mobile": 514355877
+      },
+      "address": {
+        "streetandhomenumber": "Pasierbiec 132",
+        "postalcode": "34-601",
+        "city": "Limanowa"
+      },
+      "intrests": [
+        "transport",
+        "space",
+        "new technology",
+        "books"
+      ],
+      "family": {
+        "spouse": {
+          "name": "Filip",
+          "surname": "W"
+        },
+        "children": [
+          {
+            "name": "Marek",
+            "surname": "W",
+            "age": 3,
+            "gender": "male",
+            "intrests": [
+              "football",
+              "taekwondo",
+              "books",
+              "programing"
+            ]
+          },
+          {
+            "name": "Ania",
+            "surname": "W",
+            "age": 2,
+            "gender": "female",
+            "intrests": [
+              "fashin",
+              "cosmetics",
+              "books",
+              "programing"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

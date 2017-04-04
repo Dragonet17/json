@@ -1,0 +1,130 @@
+{
+   "plan-zajec": {
+      "okres": [
+         {
+            "_od": "2017-04-04",
+            "_do": "2017-04-18",
+            "_nazwa": "2017-04-04 do 2017-04-18",
+            "_wybrany": "tak"
+         },
+         {
+            "_od": "2016-09-30",
+            "_do": "2017-02-19",
+            "_nazwa": "2016-09-30 do 2017-02-19"
+         },
+         {
+            "_od": "2017-02-20",
+            "_do": "2017-09-30",
+            "_nazwa": "2017-02-20 do 2017-09-30"
+         }
+      ],
+      "zajecia": [
+         {
+            "termin": "2017-04-04",
+            "dzien": "Wt",
+            "od-godz": "14:50",
+            "do-godz": "16:25",
+            "przedmiot": "Programowanie system�w mobilnych",
+            "typ": "wyk�ad",
+            "sala": "Paw.G 12",
+            "grupa": "KrDZIs3011Io, KrDZIs3012Io, KrDZIs3013Io"
+         },
+         {
+            "termin": "2017-04-04",
+            "dzien": "Wt",
+            "od-godz": "16:30",
+            "do-godz": "18:05",
+            "przedmiot": "Programowanie aplikacji webowych SPA",
+            "typ": "wyk�ad do wyboru",
+            "sala": "Paw.A 116 lab. Win8, Office03",
+            "grupa": "KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io"
+         },
+         {
+            "termin": "2017-04-04",
+            "dzien": "Wt",
+            "od-godz": "18:10",
+            "do-godz": "19:45",
+            "przedmiot": "Us�ugi cloud computing dla przedsi�biorstw",
+            "typ": "wyk�ad do wyboru",
+            "sala": "Paw.A 116 lab. Win8, Office03",
+            "grupa": "KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io"
+         },
+         {
+            "termin": "2017-04-07",
+            "dzien": "Pt",
+            "od-godz": "17:20",
+            "do-godz": "20:35",
+            "przedmiot": "Programowanie aplikacji webowych SPA",
+            "typ": "wyk�ad do wyboru",
+            "sala": "Paw.A 115 lab. Win8, Office03",
+            "grupa": "KrZZIs3011Io, KrZZIs3011Si"
+         },
+         {
+            "termin": "2017-04-11",
+            "dzien": "Wt",
+            "od-godz": "09:35",
+            "do-godz": "11:15",
+            "przedmiot": "Bogate aplikacje internetowe",
+            "typ": "wyk�ad",
+            "sala": "Paw.F 107",
+            "grupa": "KrDUIs1011, KrDUIs1012"
+         },
+         {
+            "termin": "2017-04-11",
+            "dzien": "Wt",
+            "od-godz": "11:20",
+            "do-godz": "13:00",
+            "przedmiot": "Bogate aplikacje internetowe",
+            "typ": "�wiczenia",
+            "sala": "Paw.A 122 lab. Vista,Office10",
+            "grupa": "KrDUIs1011"
+         },
+         {
+            "termin": "2017-04-11",
+            "dzien": "Wt",
+            "od-godz": "13:05",
+            "do-godz": "14:45",
+            "przedmiot": "Bogate aplikacje internetowe",
+            "typ": "�wiczenia",
+            "sala": "Paw.A 301a lab.",
+            "grupa": "KrDUIs1012"
+         },
+         {
+            "termin": "2017-04-11",
+            "dzien": "Wt",
+            "od-godz": "14:50",
+            "do-godz": "16:25",
+            "przedmiot": "Programowanie aplikacji webowych SPA",
+            "typ": "wyk�ad do wyboru",
+            "sala": "Paw.A 121 lab. Vista,Office07",
+            "grupa": "KrDUIs2011Is, KrDUIs2012Is"
+         },
+         {
+            "termin": "2017-04-11",
+            "dzien": "Wt",
+            "od-godz": "16:30",
+            "do-godz": "18:05",
+            "przedmiot": "Programowanie aplikacji webowych SPA",
+            "typ": "wyk�ad do wyboru",
+            "sala": "Paw.A 116 lab. Win8, Office03",
+            "grupa": "KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io"
+         },
+         {
+            "termin": "2017-04-11",
+            "dzien": "Wt",
+            "od-godz": "18:10",
+            "do-godz": "19:45",
+            "przedmiot": "Us�ugi cloud computing dla przedsi�biorstw",
+            "typ": "wyk�ad do wyboru",
+            "sala": "Paw.A 116 lab. Win8, Office03",
+            "grupa": "KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io"
+         }
+      ],
+      "_typ": "N",
+      "_id": "13462",
+      "_idcel": "-218",
+      "_nazwa": "Stal Janusz, dr",
+      "_od": "2017-04-04",
+      "_do": "2017-04-18"
+   }
+}

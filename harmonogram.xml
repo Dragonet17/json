@@ -1,0 +1,113 @@
+<plan-zajec typ="N" id="13462" idcel="-218" nazwa="Stal Janusz, dr" od="2017-04-04" do="2017-04-18">
+<okres od="2017-04-04" do="2017-04-18" nazwa="2017-04-04 do 2017-04-18" wybrany="tak"/>
+<okres od="2016-09-30" do="2017-02-19" nazwa="2016-09-30 do 2017-02-19"/>
+<okres od="2017-02-20" do="2017-09-30" nazwa="2017-02-20 do 2017-09-30"/>
+<zajecia>
+<termin>2017-04-04</termin>
+<dzien>Wt</dzien>
+<od-godz>14:50</od-godz>
+<do-godz>16:25</do-godz>
+<przedmiot>Programowanie systemów mobilnych</przedmiot>
+<typ>wyk³ad</typ>
+<sala>Paw.G 12</sala>
+<grupa>KrDZIs3011Io, KrDZIs3012Io, KrDZIs3013Io</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-04</termin>
+<dzien>Wt</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>18:05</do-godz>
+<przedmiot>Programowanie aplikacji webowych SPA</przedmiot>
+<typ>wyk³ad do wyboru</typ>
+<sala>Paw.A 116 lab. Win8, Office03</sala>
+<grupa>
+KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io
+</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-04</termin>
+<dzien>Wt</dzien>
+<od-godz>18:10</od-godz>
+<do-godz>19:45</do-godz>
+<przedmiot>Us³ugi cloud computing dla przedsiêbiorstw</przedmiot>
+<typ>wyk³ad do wyboru</typ>
+<sala>Paw.A 116 lab. Win8, Office03</sala>
+<grupa>
+KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io
+</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-07</termin>
+<dzien>Pt</dzien>
+<od-godz>17:20</od-godz>
+<do-godz>20:35</do-godz>
+<przedmiot>Programowanie aplikacji webowych SPA</przedmiot>
+<typ>wyk³ad do wyboru</typ>
+<sala>Paw.A 115 lab. Win8, Office03</sala>
+<grupa>KrZZIs3011Io, KrZZIs3011Si</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-11</termin>
+<dzien>Wt</dzien>
+<od-godz>09:35</od-godz>
+<do-godz>11:15</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>wyk³ad</typ>
+<sala>Paw.F 107</sala>
+<grupa>KrDUIs1011, KrDUIs1012</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-11</termin>
+<dzien>Wt</dzien>
+<od-godz>11:20</od-godz>
+<do-godz>13:00</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>æwiczenia</typ>
+<sala>Paw.A 122 lab. Vista,Office10</sala>
+<grupa>KrDUIs1011</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-11</termin>
+<dzien>Wt</dzien>
+<od-godz>13:05</od-godz>
+<do-godz>14:45</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>æwiczenia</typ>
+<sala>Paw.A 301a lab.</sala>
+<grupa>KrDUIs1012</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-11</termin>
+<dzien>Wt</dzien>
+<od-godz>14:50</od-godz>
+<do-godz>16:25</do-godz>
+<przedmiot>Programowanie aplikacji webowych SPA</przedmiot>
+<typ>wyk³ad do wyboru</typ>
+<sala>Paw.A 121 lab. Vista,Office07</sala>
+<grupa>KrDUIs2011Is, KrDUIs2012Is</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-11</termin>
+<dzien>Wt</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>18:05</do-godz>
+<przedmiot>Programowanie aplikacji webowych SPA</przedmiot>
+<typ>wyk³ad do wyboru</typ>
+<sala>Paw.A 116 lab. Win8, Office03</sala>
+<grupa>
+KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io
+</grupa>
+</zajecia>
+<zajecia>
+<termin>2017-04-11</termin>
+<dzien>Wt</dzien>
+<od-godz>18:10</od-godz>
+<do-godz>19:45</do-godz>
+<przedmiot>Us³ugi cloud computing dla przedsiêbiorstw</przedmiot>
+<typ>wyk³ad do wyboru</typ>
+<sala>Paw.A 116 lab. Win8, Office03</sala>
+<grupa>
+KrDZIs3011Io, KrDZIs3011Si, KrDZIs3012Io, KrDZIs3012Si, KrDZIs3013Io
+</grupa>
+</zajecia>
+</plan-zajec>

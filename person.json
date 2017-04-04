@@ -1,0 +1,55 @@
+{
+  "person": {
+    "name": "Karol",
+    "surname": "Cichoń",
+    "age": 26,
+    "email": "karol.cichon17@gmail.com",
+    "phone": {
+      "landline": 183376332,
+      "mobile": 504400336
+    },
+    "address": {
+      "streetandhomenumber": "Pasierbiec 132",
+      "postalcode": "34-601",
+      "city": "Limanowa"
+    },
+    "intrests": [
+      "programing",
+      "space",
+      "new technology",
+      "books"
+    ],
+    "family": {
+      "spouse": {
+        "name": "Justyna",
+        "surname": "Stańczyk"
+      },
+      "student": [
+        {
+          "name": "Jcob",
+           "surname":"Cichoń",
+          "age": 6,
+          "gender":"male",
+          "intrests":[
+            "football",
+            "taekwondo",
+            "books",
+            "programing"
+            ]
+        },
+        {
+          "name": "Alice",
+          "surname":"Cichoń",
+          "age": 4,
+          "gender":"female",
+           "intrests":[
+            "fashin",
+            "cosmetics",
+            "books",
+            "programing"
+            ]
+        }
+      ]
+    }
+  }
+}

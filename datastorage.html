@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    set = (key, value) => localStorage.setItem(key, value)
+    get = (key) => localStorage.getItem(key)
+    rem = (key) => localStorage.removeItem(key)
+
+    set('name', 'Karol')
+    set('surname', 'Cichon')
+    console.log('name: ' + get('name') + ', surname: ' + get('surname'));
+
+    rem('name')
+    rem('surname')
+    console.log('name: ' + get('name') + ', surname: ' + get('surname'));
+  </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <input id="name" type="text" placeholder="name" />
+    <input id="surname" type="text" placeholder="surname" />
+
+    <button id="saveButton">Save</button>
+    <button id="getButton">Restore</button>
+  </div>
+  <script>
+    const
+    name = document.querySelector('#name'),
+    surname = document.querySelector('#surname'),
+    saveButton = document.querySelector('#saveButton'),
+    getButton = document.querySelector('#getButton')
+
+    saveButton.addEventListener('click', saveToLocalStorage)
+    getButton.addEventListener('click', getFromLocalStorage)
+
+    function saveToLocalStorage() {
+      localStorage.setItem('name', name.value)
+      localStorage.setItem('surname', surname.value)
+    }
+
+    function getFromLocalStorage() {
+      name.value = localStorage.getItem('name')
+      surname.value = localStorage.getItem('surname')
+    }
+  </script>
+</body>
+</html>

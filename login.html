@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    .success {
+      color: lightgreen;
+    }
+    .failed {
+      color: red;
+    }
+    #authMessage {
+      font-size: 32px;
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <label for="usernameInput">Username</label>
+  <input id="usernameInput" type="text" />
+
+  <label for="passwordInput">Password</label>
+  <input id="passwordInput" type="password" />
+
+  <button id="loginButton">Login</button>
+  <p>username: annie, password: ax123</p>
+  <label id="authMessage"></label>
+
+  <script>
+    const
+    usernameInput = document.querySelector('#usernameInput'),
+    passwordInput = document.querySelector('#passwordInput'),
+    authMessage = document.querySelector('#authMessage'),
+    loginButton = document.querySelector('#loginButton')
+
+    localStorage.setItem('username', 'annie')
+    localStorage.setItem('password', 'ax123')
+
+    loginButton.addEventListener('click', login)
+
+    function login () {
+      let
+      usernameValue = localStorage.getItem('username'),
+      passwordValue = localStorage.getItem('password')
+
+      if ( usernameValue === usernameInput.value && passwordValue === passwordInput.value ) {
+        authMessage.className = "success"
+        authMessage.innerHTML = "User logged in successfuly!"
+      }
+      else {
+        authMessage.className = "failed"
+        authMessage.innerHTML = "Auth failed"
+      }
+    }
+  </script>
+</body>
+</html>
